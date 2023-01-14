@@ -1,0 +1,154 @@
+{
+  "university_towns": [
+    {
+      "name": "Oxford",
+      "description": "Home to the University of Oxford, one of the oldest and most prestigious universities in the world.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=oxford"
+    },
+    {
+      "name": "Cambridge",
+      "description": "Home to the University of Cambridge, another world-renowned institution.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=cambridge"
+    },
+    {
+      "name": "Bristol",
+      "description": "Home to the University of Bristol, a member of the prestigious Russell Group of universities.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=bristol"
+    },
+    {
+      "name": "Manchester",
+      "description": "Home to the University of Manchester, also a member of the Russell Group.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=manchester"
+    },
+    {
+      "name": "Leeds",
+      "description": "Home to the University of Leeds, a research-intensive university known for its strong programs in the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=leeds"
+    },
+    {
+      "name": "Birmingham",
+      "description": "Home to the University of Birmingham, a research-led institution with a strong focus on science and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=birmingham"
+    },
+    {
+      "name": "Newcastle",
+      "description": "Home to the University of Newcastle, a research-intensive university with a strong focus on the applied sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=newcastle"
+    },
+    {
+      "name": "Nottingham",
+      "description": "Home to the University of Nottingham, a research-led institution with a strong focus on science, technology, engineering, and medicine.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=nottingham"
+    },
+    {
+      "name": "Southampton",
+      "description": "Home to the University of Southampton, a research-intensive university known for its strong programs in engineering, computer science, and the natural sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=southampton"
+    },
+    {
+      "name": "Glasgow",
+      "description": "Home to the University of Glasgow, a research-led institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=glasgow"
+    },
+    {
+      "name": "Cardiff",
+      "description": "Home to Cardiff University, a research-intensive institution with a strong focus on science, engineering, and the social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=cardiff"
+    },
+    {
+      "name": "Edinburgh",
+      "description": "Home to the University of Edinburgh, a research-led institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=edinburgh"
+    },
+    {
+      "name": "Dublin",
+      "description": "Home to several universities, including Trinity College Dublin, the University of Dublin, and Dublin City University.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=dublin"
+    },
+    {
+      "name": "Belfast",
+      "description": "Home to Queen's University Belfast and Ulster University.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=belfast"
+    },
+    {
+      "name": "Liverpool",
+      "description": "Home to the University of Liverpool, a member of the prestigious Russell Group of universities.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=liverpool"
+    },
+    {
+      "name": "Plymouth",
+      "description": "Home to the University of Plymouth, a research-led institution with a strong focus on the applied sciences and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=plymouth"
+    },
+    {
+      "name": "Sheffield",
+      "description": "Home to the University of Sheffield, a research-intensive institution with a strong focus on science, engineering, and the social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=sheffield"
+    },
+    {
+      "name": "Exeter",
+      "description": "Home to the University of Exeter, a research-intensive institution known for its strong programs in the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=exeter"
+    },
+    {
+      "name": "Durham",
+      "description": "Home to Durham University, a member of the prestigious Russell Group of universities.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=durham"
+    },
+    {
+      "name": "St Andrews",
+      "description": "Home to the University of St Andrews, a research-led institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=standrews"
+    },
+    {
+      "name": "Aberdeen",
+      "description": "Home to the University of Aberdeen, a research-intensive institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=aberdeen"
+    },
+    {
+      "name": "Aberystwyth",
+      "description": "Home to Aberystwyth University, a research-led institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=aberystwyth"
+    },
+    {
+      "name": "Bath",
+      "description": "Home to the University of Bath, a research-intensive institution known for its strong programs in science, engineering, and the social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=bath"
+    },
+    {
+      "name": "Belfast",
+      "description": "Home to Queen's University Belfast and Ulster University.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=belfast"
+    },
+    {
+      "name": "Brighton",
+      "description": "Home to the University of Brighton, a research-led institution with a strong focus on the applied sciences and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=brighton"
+    },
+    {
+      "name": "Canterbury",
+      "description": "Home to the University of Kent, a research-led institution with a strong focus on the arts, humanities, and social sciences.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=canterbury"
+    },
+    {
+      "name": "Carlisle",
+      "description": "Home to the University of Cumbria, a research-led institution with a strong focus on the applied sciences and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=carlisle"
+    },
+    {
+      "name": "Chester",
+      "description": "Home to the University of Chester, a research-led institution with a strong focus on the applied sciences and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=chester"
+    },
+    {
+      "name": "Coventry",
+      "description": "Home to Coventry University, a research-led institution with a strong focus on the applied sciences and engineering.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=coventry"
+    },
+    {
+      "name": "Cranfield",
+      "description": "Home to Cranfield University, a research-led institution with a strong focus on science, engineering, and management.",
+      "apiurl": "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&view=grid&location-id=cranfield"
+    }
+  ]
+}
